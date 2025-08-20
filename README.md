@@ -26,3 +26,6 @@ streamlit run Dashboard.py
 ```
 
 **Note:** This is an academic prototype. Not for clinical use.
+          `cleaned_data_extract.csv` is a synthetic dataset with the same structure as the real data used during development.  
+          `uk_9cities_simplified.geojson` contains regional map boundaries for visualisation purposes.
+
